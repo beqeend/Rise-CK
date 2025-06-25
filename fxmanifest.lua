@@ -17,7 +17,7 @@ server_scripts {
     'server.lua'
 }
 
-ui_page 'hindex.html'
+ui_page 'index.html'
 
 files {
     'index.html',
