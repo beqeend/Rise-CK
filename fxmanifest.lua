@@ -17,16 +17,12 @@ server_scripts {
     'server.lua'
 }
 
-ui_page 'html/index.html'
+ui_page 'hindex.html'
 
 files {
-    'html/index.html',
-    'html/style.css',
-    'html/script.js'
+    'index.html',
+    'style.css',
+    'script.js'
 }
 
 lua54 'yes' 
-escrow_ignore {
-    'config.lua',
-    'server_config.lua'
-}
