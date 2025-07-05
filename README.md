@@ -40,8 +40,8 @@ RISE-CK, FiveM için geliştirilmiş, güçlü ve kullanıcı dostu bir script s
 
 🔗 **RISE-CK Core sistemine [buradan ulaşabilirsiniz](https://risedevelopment.tebex.io/package/6628767)**
 
-> Bu scriptin tam potansiyelinden yararlanmak için RISE-CK Core sistemini kullanmanız önerilir.  
-Satın alım sonrası güncellemeler ve destek Discord üzerinden sağlanmaktadır.
+> Bu scriptin tam potansiyelinden yararlanmak için Rise-Core sistemini kullanmanız önerilir.  
+FREE Sistemdir sonrası güncellemeler ve destek Discord üzerinden sağlanmaktadır.
 
 ---
 
