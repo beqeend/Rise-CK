@@ -8,7 +8,6 @@ RISE-CK, FiveM için geliştirilmiş, güçlü ve kullanıcı dostu bir script s
 
 ## 🚀 Özellikler
 
-- 🎮 **Tamamen Lua ile yazılmıştır**
 - 🎨 **Gelişmiş arayüz tasarımı (CSS + HTML)**
 - ⚙️ Rol yapma sunucularına özel optimize edilmiş sistem
 - 🧩 Kolay kurulum ve yapılandırma
